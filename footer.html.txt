@@ -1,6 +1,8 @@
 <html>
 	<head>Saludo-2</head>
-<body>
+<body
+
 <h1> Hola que Hay!!</h1>
+<h2>subtitulo<h2>
 </body>
 <html>
